@@ -22,6 +22,11 @@
     color: #000000;
     padding: 15px;
   }
+
+  .corpse img {
+    width: 100%;
+    height: auto;
+  }
   
   .menu ul {
     list-style-type: none;
@@ -40,6 +45,8 @@
   .menu li:hover {
     background-color: #0099cc;
   }
+
+
   
   .aside {
     background-color: #33b5e5;
