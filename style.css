@@ -27,6 +27,11 @@
     font-size: 30pt;
   }
 
+  .header a {
+    color: black;
+    text-decoration: none;
+  }
+
   .corpse img {
     width: 100%;
     height: auto;
